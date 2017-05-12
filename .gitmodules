@@ -1,0 +1,3 @@
+[submodule "lib/libSub2"]
+	path = lib/libSub2
+	url = https://github.com/koderiter/libSub2.git
